@@ -48,7 +48,7 @@ public class RPC
         }
         
     } else {
-        System.out.println("Cannot play.");
+        System.out.println("Cannot play. You have failed to adhere to the ancient traditions of Rock, Paper, Crossblades!");
         play = false;
     }
 
